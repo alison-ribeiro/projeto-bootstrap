@@ -1,3 +1,3 @@
 # projeto-bootstrap
-E-coomerce simples, feito no curso.
+Tempalte de E-Commerce feito em curso.
 
